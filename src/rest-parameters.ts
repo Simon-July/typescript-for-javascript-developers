@@ -10,4 +10,4 @@ const sum: (...values: number[]) => number = (...values: number[]): number => {
 
 // あああああ
 // うおおおおお
-// そいそいそいそい
+// そいそいそいそいせいせいせいせいせい
