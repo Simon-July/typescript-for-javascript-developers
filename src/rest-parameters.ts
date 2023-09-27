@@ -8,3 +8,4 @@ const sum: (...values: number[]) => number = (...values: number[]): number => {
     return values.reduce(reducer);
 }
 // あああ
+// ううう
