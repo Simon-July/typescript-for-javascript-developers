@@ -15,4 +15,4 @@ const sum: (...values: number[]) => number = (...values: number[]): number => {
 
 
 
-// あいうえお
+// あいうえおかきくけこ
