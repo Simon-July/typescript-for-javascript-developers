@@ -7,5 +7,6 @@ const reducer = (accumulator:number, currentValue: number) => {
 const sum: (...values: number[]) => number = (...values: number[]): number => {
     return values.reduce(reducer);
 }
+// えええ
 // あああ
 // ううう
